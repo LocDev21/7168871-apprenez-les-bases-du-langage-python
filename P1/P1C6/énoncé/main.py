@@ -1,1 +1,10 @@
-# Écrivez votre code ici !
+Fruits=["Pommes","Bananes","Oranges"]
+Print(Fruits)
+Fruits.append("Kiwi")
+Print(Fruits)
+Fruits.remove("Oranges")
+Print(Fruits)
+Fruits[2]="Ananas"
+Print(Fruits)
+sort(Fruits)
+Print(Fruits)
