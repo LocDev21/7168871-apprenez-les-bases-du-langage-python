@@ -1,3 +1,5 @@
-import operation
-operation.addition(2,3)
-operation.multiplication(4,5)
+import operations
+resultatadd=operations.addition(2,3)
+resultatmult=operations.multiplication(4,5)
+print(resultatadd)
+print(resultatmult)
